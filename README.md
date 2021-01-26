@@ -10,6 +10,8 @@ Skills: REACT, JS , HTML , CSS , PHP , PYTHON , C++
 - 🌱 I’m currently learning C++, and refreshing on data structures and algorithms. 
 - 📫 How to reach me: Mailto (dulo.collins@gmail.com) 
 
+Also below are my socials 😀
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JobCollins)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/JobCollinsDulo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jobcollinsdulo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/jobcollinsdulo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@Job_Collins)  
 
