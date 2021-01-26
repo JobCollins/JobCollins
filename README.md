@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Job Collins
 #### Computer Vision Engineer, Data Scientist, Web Dev.
-![Computer Vision Engineer, Data Scientist, Web Dev.](https://photos.google.com/photo/AF1QipOZ4R6fT2mgsEJPE9k_IqKdrr3FBB1fG-6ZygeT)
+![Computer Vision Engineer, Data Scientist, Web Dev.](banner.png)
 
 I'm Job from Kenya, and I love building software especially in Artificial Intelligence and Web Development. I enjoy UI design as well.
 
