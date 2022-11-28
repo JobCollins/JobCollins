@@ -1,4 +1,4 @@
-![ Data Scientist, Web Dev.](presentation.png)
+
 ### Computer Vision Engineer, Data Scientist, Web Developer.
 
 I'm Job from Kenya, and I love building software especially in Artificial Intelligence and Web Development. I enjoy UI design as well.
