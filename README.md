@@ -3,11 +3,7 @@
 
 I'm Job from Kenya, and I love building software especially in Artificial Intelligence and Web Development. I enjoy UI design as well.
 
-Skills: REACT, JS , HTML , CSS , PHP , PYTHON , C++
-
-- 🔭 I’m currently working on a Computer Vision for Retail SaaS 
-- 🌱 I’m currently learning C++, and refreshing on data structures and algorithms. 
-- 📫 How to reach me: Mailto (dulo.collins@gmail.com) 
+Skills: REACT, JS , HTML , CSS , PHP , PYTHON
 
 Also below are my socials 😀
 
