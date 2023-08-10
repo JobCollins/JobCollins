@@ -1,7 +1,7 @@
 
-### Computer Vision Engineer, Data Scientist, Web Developer.
+### Computer Vision Engineer, Data Scientist, Experimenting with LLMs for Data Analytics
 
-I'm Job from Kenya, and I love building software especially in Artificial Intelligence and Web Development. I enjoy UI design as well.
+
 
 Skills: REACT, JS , HTML , CSS , PHP , PYTHON
 
