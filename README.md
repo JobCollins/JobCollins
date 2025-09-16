@@ -1,5 +1,5 @@
 
-### Computer Vision Engineer, Data Scientist, Experimenting with LLMs for Data Analytics
+### AI, Data Scientist, Experimenting with LLMs for Data Analytics
 
 
 
